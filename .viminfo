@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1656121981,,"wq!"
+|2,0,1656124200,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,50 @@
 # Registers:
 
 # File marks:
-'0  2  9  ~/sample
-|4,48,2,9,1656121981,"~/sample"
-'1  1  11  ~/sample
-|4,49,1,11,1656121828,"~/sample"
-'2  1  11  ~/sample
-|4,50,1,11,1656121828,"~/sample"
+'0  4  9  ~/sample
+|4,48,4,9,1656124200,"~/sample"
+'1  3  8  ~/sample
+|4,49,3,8,1656124176,"~/sample"
+'2  3  8  ~/sample
+|4,50,3,8,1656124176,"~/sample"
+'3  3  9  ~/sample
+|4,51,3,9,1656122502,"~/sample"
+'4  3  9  ~/sample
+|4,52,3,9,1656122502,"~/sample"
+'5  2  9  ~/sample
+|4,53,2,9,1656121981,"~/sample"
+'6  2  9  ~/sample
+|4,54,2,9,1656121981,"~/sample"
+'7  2  9  ~/sample
+|4,55,2,9,1656121981,"~/sample"
+'8  2  9  ~/sample
+|4,56,2,9,1656121981,"~/sample"
+'9  2  9  ~/sample
+|4,57,2,9,1656121981,"~/sample"
 
 # Jumplist (newest first):
+-'  4  9  ~/sample
+|4,39,4,9,1656124200,"~/sample"
+-'  3  8  ~/sample
+|4,39,3,8,1656124189,"~/sample"
+-'  3  8  ~/sample
+|4,39,3,8,1656124176,"~/sample"
+-'  3  9  ~/sample
+|4,39,3,9,1656122502,"~/sample"
+-'  2  9  ~/sample
+|4,39,2,9,1656122491,"~/sample"
+-'  2  9  ~/sample
+|4,39,2,9,1656122491,"~/sample"
+-'  2  9  ~/sample
+|4,39,2,9,1656122491,"~/sample"
 -'  2  9  ~/sample
 |4,39,2,9,1656121981,"~/sample"
+-'  1  11  ~/sample
+|4,39,1,11,1656121967,"~/sample"
+-'  1  11  ~/sample
+|4,39,1,11,1656121967,"~/sample"
+-'  1  11  ~/sample
+|4,39,1,11,1656121967,"~/sample"
 -'  1  11  ~/sample
 |4,39,1,11,1656121967,"~/sample"
 -'  1  11  ~/sample
@@ -43,9 +77,11 @@
 # History of marks within files (newest to oldest):
 
 > ~/sample
-	*	1656121979	0
-	"	2	9
-	^	2	10
-	.	2	9
+	*	1656124198	0
+	"	4	9
+	^	4	10
+	.	4	9
 	+	1	12
-	+	2	9
+	+	2	10
+	+	3	9
+	+	4	9
