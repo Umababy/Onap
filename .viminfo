@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1656125262,,"wq!"
+|2,0,1656125565,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,34 +25,40 @@
 # Registers:
 
 # File marks:
-'0  7  0  ~/sample
-|4,48,7,0,1656125262,"~/sample"
-'1  5  9  ~/sample
-|4,49,5,9,1656124825,"~/sample"
+'0  7  9  ~/sample
+|4,48,7,9,1656125565,"~/sample"
+'1  7  0  ~/sample
+|4,49,7,0,1656125262,"~/sample"
 '2  5  9  ~/sample
 |4,50,5,9,1656124825,"~/sample"
-'3  4  9  ~/sample
-|4,51,4,9,1656124200,"~/sample"
-'4  4  9  ~/sample
-|4,52,4,9,1656124200,"~/sample"
-'5  4  9  ~/sample
-|4,53,4,9,1656124200,"~/sample"
+'3  5  9  ~/sample
+|4,51,5,9,1656124825,"~/sample"
+'4  5  9  ~/sample
+|4,52,5,9,1656124825,"~/sample"
+'5  5  9  ~/sample
+|4,53,5,9,1656124825,"~/sample"
 '6  4  9  ~/sample
 |4,54,4,9,1656124200,"~/sample"
-'7  3  8  ~/sample
-|4,55,3,8,1656124176,"~/sample"
-'8  3  8  ~/sample
-|4,56,3,8,1656124176,"~/sample"
-'9  3  8  ~/sample
-|4,57,3,8,1656124176,"~/sample"
+'7  4  9  ~/sample
+|4,55,4,9,1656124200,"~/sample"
+'8  4  9  ~/sample
+|4,56,4,9,1656124200,"~/sample"
+'9  4  9  ~/sample
+|4,57,4,9,1656124200,"~/sample"
 
 # Jumplist (newest first):
+-'  7  9  ~/sample
+|4,39,7,9,1656125565,"~/sample"
 -'  7  0  ~/sample
 |4,39,7,0,1656125262,"~/sample"
 -'  5  9  ~/sample
 |4,39,5,9,1656125235,"~/sample"
 -'  5  9  ~/sample
+|4,39,5,9,1656125235,"~/sample"
+-'  5  9  ~/sample
 |4,39,5,9,1656124825,"~/sample"
+-'  4  9  ~/sample
+|4,39,4,9,1656124816,"~/sample"
 -'  4  9  ~/sample
 |4,39,4,9,1656124816,"~/sample"
 -'  4  9  ~/sample
@@ -66,9 +72,13 @@
 -'  3  8  ~/sample
 |4,39,3,8,1656124189,"~/sample"
 -'  3  8  ~/sample
+|4,39,3,8,1656124189,"~/sample"
+-'  3  8  ~/sample
 |4,39,3,8,1656124176,"~/sample"
 -'  3  9  ~/sample
 |4,39,3,9,1656122502,"~/sample"
+-'  2  9  ~/sample
+|4,39,2,9,1656122491,"~/sample"
 -'  2  9  ~/sample
 |4,39,2,9,1656122491,"~/sample"
 -'  2  9  ~/sample
@@ -94,18 +104,21 @@
 -'  1  11  ~/sample
 |4,39,1,11,1656121967,"~/sample"
 -'  1  11  ~/sample
+|4,39,1,11,1656121967,"~/sample"
+-'  1  11  ~/sample
 |4,39,1,11,1656121828,"~/sample"
 
 # History of marks within files (newest to oldest):
 
 > ~/sample
-	*	1656125260	0
-	"	7	0
-	^	7	0
-	.	6	40
+	*	1656125564	0
+	"	7	9
+	^	7	10
+	.	7	9
 	+	1	12
 	+	2	10
 	+	3	9
 	+	4	10
 	+	5	10
 	+	6	40
+	+	7	9
